@@ -188,7 +188,7 @@
                         </span>
                         <h2>
                             Welcome to Resto !! 
-				Nice to have you
+				Enjoy the Food
                         </h2>
                     </div>
                     <div class="pl-lg-5 ml-md-5">
