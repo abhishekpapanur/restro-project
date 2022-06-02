@@ -187,7 +187,8 @@
                             About
                         </span>
                         <h2>
-                            Welcome to Resto
+                            Welcome to Resto !! 
+				Nice to have you
                         </h2>
                     </div>
                     <div class="pl-lg-5 ml-md-5">
